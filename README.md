@@ -1,17 +1,34 @@
-# 👋 Welcome to my GitHub
+# 👋 Hey I am Noa Patchornik, Welcome to my GitHub
 
-I'm Noa Patchornik — a Software & Information Systems Engineering student at Ben-Gurion University.
+**B.Sc. Software & Information Systems Engineering at Ben-Gurion University**
 
+Strong Logic & Problem Solving | Backend-Oriented Software Development | Team - Player 
+
+Software Engineer with a B.Sc. in Software & Information Systems Engineering (GPA: 89). 
 I have hands-on experience in a wide range of technologies, and I’m always excited to learn more.
+With a strong foundation in data structures, scalable API design, and cloud-based CI/CD workflows (Azure DevOps). 
+
+
+### 📬 Contact
+
+Feel free to connect, collaborate, or just say hi.
+
+[📧 noap2580@gmail.com](mailto:noap2580@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/noa-patchornik/)  
+[💻 GitHub Projects](https://github.com/Noa-Patchornik?tab=repositories)
 
 ---
 
 ## 🧠 Tech Stack
 
 **Programming Languages:** Python, Java, C, C++, C#, JavaScript, Node.js, Vue, React, Bash, SQL 
+
 **Databases:** MySQL, PostgreSQL, SQLite, MSSQL, MongoDB
+
 **Tools & Platforms:** Git, VS Code, JetBrains, Jupyter, Azure DevOps CI/CD, Swagger, Postman, GCP, Docker
+
 **Environments:** Linux, Windows, Virtual Machines (Kali, Ubuntu)
+
 **Concepts:** Agile, OOP, RESTful API, Design Patterns, Client-Server Architecture.
 
 ---
@@ -78,17 +95,6 @@ I have hands-on experience in a wide range of technologies, and I’m always exc
 > Supports RTL layout for Hebrew users and dynamic scoring based on enemy rows.
 
 🔗 [View Repository](https://github.com/Noa-Patchornik/Pacman-Spaceshoot-game)
-
----
-
-
-## 📬 Contact
-
-Feel free to connect, collaborate, or just say hi.
-
-[📧 noap2580@gmail.com](mailto:noap2580@gmail.com)  
-[🔗 LinkedIn](https://www.linkedin.com/in/noa-patchornik/)  
-[💻 GitHub Projects](https://github.com/Noa-Patchornik?tab=repositories)
 
 ---
 
