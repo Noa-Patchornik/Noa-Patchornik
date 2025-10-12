@@ -8,10 +8,11 @@ I have hands-on experience in a wide range of technologies, and I’m always exc
 
 ## 🧠 Tech Stack
 
-**Languages:** Python, Java, C, C++, C#, JavaScript, Node.js, Vue, React  
-**Databases:** MySQL, PostgreSQL, SQLite, SQL Server  
-**Tools & Platforms:** Git, VS Code, IntelliJ, JetBrains, Jupyter, Azure DevOps, Swagger, Postman  
-**Environments:** Linux, Windows, Virtual Machines (Kali, Ubuntu), Bash scripting
+**Programming Languages:** Python, Java, C, C++, C#, JavaScript, Node.js, Vue, React, Bash, SQL 
+**Databases:** MySQL, PostgreSQL, SQLite, MSSQL, MongoDB
+**Tools & Platforms:** Git, VS Code, JetBrains, Jupyter, Azure DevOps CI/CD, Swagger, Postman, GCP, Docker
+**Environments:** Linux, Windows, Virtual Machines (Kali, Ubuntu)
+**Concepts:** Agile, OOP, RESTful API, Design Patterns, Client-Server Architecture.
 
 ---
 
