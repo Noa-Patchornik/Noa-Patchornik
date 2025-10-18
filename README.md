@@ -1,99 +1,109 @@
-# 👋 Hey I am Noa Patchornik, Welcome to my GitHub
+# 👋 Hey, I’m **Noa Patchornik**  
 
-**B.Sc. Software & Information Systems Engineering at Ben-Gurion University**
+🎓 **B.Sc. in Software & Information Systems Engineering**  
+💡 Passionate about backend development, scalable architecture, and clean, maintainable code.  
+🤝 Team player | Analytical thinker | Fast learner  
 
-Strong Logic & Problem Solving | Backend-Oriented Software Development | Team - Player 
+---
 
-Software Engineer with a B.Sc. in Software & Information Systems Engineering (GPA: 89). 
-I have hands-on experience in a wide range of technologies, and I’m always excited to learn more.
-With a strong foundation in data structures, scalable API design, and cloud-based CI/CD workflows (Azure DevOps). 
+## 📬 Contact Me
 
+[📧 Email](mailto:noap2580@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/noa-patchornik/) • [💻 GitHub](https://github.com/Noa-Patchornik?tab=repositories)
 
-### 📬 Contact
+---
 
-Feel free to connect, collaborate, or just say hi.
+## 🌟 About Me
 
-[📧 noap2580@gmail.com](mailto:noap2580@gmail.com)  
-[🔗 LinkedIn](https://www.linkedin.com/in/noa-patchornik/)  
-[💻 GitHub Projects](https://github.com/Noa-Patchornik?tab=repositories)
+I’m a passionate software engineer with a strong foundation in **problem-solving, backend development, and scalable system design**.  
+I’m currently **expanding my skills through self-learning** and participating in **collaborative projects within the TCP** community — working alongside professionals from various tech disciplines.  
+These experiences allow me to deepen my understanding of real-world software development and teamwork in cross-functional environments.  
 
 ---
 
 ## 🧠 Tech Stack
 
-**Programming Languages:** Python, Java, C, C++, C#, JavaScript, Node.js, Vue, React, Bash, SQL 
+**💻 Programming Languages:**  
+Python | Java | C | C++ | C# | JavaScript (ES6+) | Node.js | React | Vue | SQL | Bash  
 
-**Databases:** MySQL, PostgreSQL, SQLite, MSSQL, MongoDB
+**🗄️ Databases:**  
+MySQL | PostgreSQL | SQLite | MSSQL | MongoDB  
 
-**Tools & Platforms:** Git, VS Code, JetBrains, Jupyter, Azure DevOps CI/CD, Swagger, Postman, GCP, Docker
+**⚙️ Tools & Platforms:**  
+Git | Docker | Azure DevOps CI/CD | GCP | Swagger | Postman | Jupyter  
 
-**Environments:** Linux, Windows, Virtual Machines (Kali, Ubuntu)
-
-**Concepts:** Agile, OOP, RESTful API, Design Patterns, Client-Server Architecture.
+**🧩 Concepts & Methodologies:**  
+OOP | RESTful APIs | Design Patterns | Agile | Client-Server Architecture | MVVM | Data Structures  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍲 Recipes Website - Full Stack Recipe Management Platform  
+### 🍲 Recipes Website – Full Stack Recipe Management Platform  
+> Designed and built a **full-stack recipe-sharing system** using Vue 3, Node.js, and MySQL.  
+> Developed a RESTful backend with **Spoonacular API integration**, authentication, favorites, and dynamic search.  
+> Built a responsive SPA with **BootstrapVue** and **Vue Router**, including session management and OpenAPI (Swagger) documentation.
 
-> Designed and built a full-stack recipe-sharing system using Vue 3, Node.js, and MySQL.  
-> Developed a RESTful backend (Express.js) with Spoonacular API integration, user authentication, favorites, search history, and family recipe support.  
-> Built a responsive SPA frontend with BootstrapVue and Vue Router. Includes session management and dynamic navigation.  
-> Backend is documented using OpenAPI (Swagger), and tested with Postman. 
-
+**🧰 Tech:** Vue 3, Node.js, MySQL, BootstrapVue, Swagger, REST API  
 🔗 [View Repository](https://github.com/Noa-Patchornik/Recipes-Website)
 
 ---
+### ✅ Task Management App – Full Stack To-Do System  
+> A full-stack **task management platform** for creating, editing, filtering, and tracking tasks efficiently.  
+> Built with **React (Vite)** for the frontend and **FastAPI + MongoDB** for the backend, fully containerized with **Docker Compose**.  
+> Supports CRUD operations, deadline tracking, and smart filtering by completion or due date.  
+> Designed with reusable components, RESTful API, and clean data handling via **Beanie ODM**.
 
-### 🔹 Super-Lee – Human Resources System
+**🧰 Tech:** React, JavaScript, FastAPI, Python, MongoDB, Docker  
+🔗 [View Repository](https://github.com/Noa-Patchornik/Task-Manager)
 
-> Designed and implemented a layered HR management system in Java for a fictional supermarket.  
-> Developed CLI-based UI, business logic, and persistence (SQLite), using clear separation of concerns.  
-> Handled full CRUD functionality, payroll, shift planning, employee contract updates, and reporting.  
- 
+---
+
+### 🧩 Super-Lee – Human Resources System  
+> A **multi-layer HR management system** in Java for a fictional supermarket.  
+> Implemented full CRUD, payroll management, employee contracts, and shift planning.  
+> Emphasized modular design and **separation of concerns** across UI, logic, and persistence layers.
+
+**🧰 Tech:** Java, SQLite, OOP, Design Patterns, CLI  
 🔗 [View Repository](https://github.com/Noa-Patchornik/Super-Lee)
 
 ---
 
-### 🔹 Network speed test - Client Server App
+### 🕹️ Super Mario Maze Game – JavaFX Maze Solver  
+> Developed an interactive **Super Mario–themed maze game** using JavaFX and MVVM architecture.  
+> Implemented DFS, BFS, and Best-First algorithms for maze generation and solving.  
+> Features animations, keyboard navigation, client-server communication, and RLE compression.
 
-> Simulated TCP and UDP protocols using socket programming in Python.  
-> Built a CLI tool to compare transfer speeds, packet loss, and performance under different network loads.  
-> **Ranked first in course evaluation**. 
-
-🔗 [View Repository](https://github.com/Noa-Patchornik/Network-speed-CS)
-
----
-
-### 🌐 Frida Kahlo Landing Page (HTML/CSS/JS)
-
-> A clean, mobile-responsive landing page celebrating Frida Kahlo.  
-> Built using pure HTML, CSS, and vanilla JavaScript – focusing on accessibility, design, and layout consistency.  
-> Features soft animations and pastel aesthetics inspired by Kahlo’s work and life.
-
-🔗 [View Repository](https://github.com/Noa-Patchornik/Frida-Kahlo-Website)
-
----
-
-### 🧩 Super Mario Maze Game – JavaFX Maze Solver 
-
-> Developed an interactive maze game with a **Super Mario-inspired UI** in Java.  
-> Features maze generation and solving using DFS, BFS, and Best-First Search algorithms.  
-> Built using **MVVM architecture**, with real-time client-server communication and RLE compression.  
-> Includes keyboard-based gameplay and animation within a modular JavaFX application.
-
+**🧰 Tech:** Java, JavaFX, MVVM, Algorithms (DFS, BFS), Client-Server  
 🔗 [View Repository](https://github.com/Noa-Patchornik/SuperMario-Maze)
 
 ---
 
-### Pacman Spaceshoot game
+### ⚡ Network Speed Test – Client-Server App  
+> Simulated **TCP and UDP network protocols** using socket programming in Python.  
+> Built a CLI tool to measure transfer speeds, latency, and packet loss across different network conditions.  
+> 🏆 **Ranked 1st in course evaluation**.
 
-> A browser-based arcade game that blends classic **Pacman** gameplay with **space shooting mechanics**.  
-> Built with HTML, CSS, and JavaScript, featuring keyboard movement, shooting, and ghost enemies.  
-> Includes user registration and login with `localStorage`, score tracking, and full configuration options (controls, bullet color, duration, sound levels).  
-> Supports RTL layout for Hebrew users and dynamic scoring based on enemy rows.
+**🧰 Tech:** Python, Sockets, Networking, CLI  
+🔗 [View Repository](https://github.com/Noa-Patchornik/Network-speed-CS)
 
+---
+
+### 🌐 Frida Kahlo Landing Page  
+> A clean, mobile-responsive landing page celebrating Frida Kahlo’s art and life.  
+> Built using **pure HTML, CSS, and vanilla JavaScript**, focusing on design, accessibility, and visual storytelling.  
+> Features soft animations, pastel color palette, and responsive grid layout.
+
+**🧰 Tech:** HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/Noa-Patchornik/Frida-Kahlo-Website)
+
+---
+
+### 🎮 Pacman SpaceShoot Game  
+> A browser-based **arcade game** combining Pacman gameplay with space shooter mechanics.  
+> Includes user registration & login (via `localStorage`), keyboard controls, shooting mechanics, and dynamic scoring.  
+> Supports **RTL layout** and full configuration for controls, bullets, and difficulty.
+
+**🧰 Tech:** HTML, CSS, JavaScript  
 🔗 [View Repository](https://github.com/Noa-Patchornik/Pacman-Spaceshoot-game)
 
 ---
