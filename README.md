@@ -58,6 +58,16 @@ OOP | RESTful APIs | Design Patterns | Agile | Client-Server Architecture | MVVM
 
 ---
 
+### 🎬 Movie Trend Analyzer – Event-Driven Microservices MVP
+
+A backend-focused MVP demonstrating real-time movie trend scoring using a fully decoupled **event-driven microservices** architecture.
+Built around **FastAPI, RabbitMQ, PostgreSQL, and Docker Compose**, it showcases asynchronous communication, container orchestration, and clean system design.
+
+🧰 Tech: Python, FastAPI, RabbitMQ, PostgreSQL, Docker Compose, React (Vite), NGINX
+🔗 [View Repository](https://github.com/Noa-Patchornik/movie-trend-analyzer)
+
+---
+
 ### 🧩 Super-Lee – Human Resources System  
 > A **multi-layer HR management system** in Java for a fictional supermarket.  
 > Implemented full CRUD, payroll management, employee contracts, and shift planning.  
