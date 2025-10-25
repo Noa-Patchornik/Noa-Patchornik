@@ -29,10 +29,10 @@ Python | Java | C | C++ | C# | JavaScript (ES6+) | Node.js | React | Vue | SQL |
 MySQL | PostgreSQL | SQLite | MSSQL | MongoDB  
 
 **⚙️ Tools & Platforms:**  
-Git | Docker | Azure DevOps CI/CD | GCP | Swagger | Postman | Jupyter  
+Docker | Azure DevOps CI/CD | GCP | Swagger | Postman | RabbitMQ
 
 **🧩 Concepts & Methodologies:**  
-OOP | RESTful APIs | Design Patterns | Agile | Client-Server Architecture | MVVM | Data Structures  
+Agile | OOP | RESTful APIs | Design Patterns | Client-Server Architecture | Data Structures | FastAPI
 
 ---
 
